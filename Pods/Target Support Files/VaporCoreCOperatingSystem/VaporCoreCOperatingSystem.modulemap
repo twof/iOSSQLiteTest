@@ -1,0 +1,6 @@
+framework module COperatingSystem {
+  umbrella header "VaporCoreCOperatingSystem-umbrella.h"
+
+  export *
+  module * { export * }
+}

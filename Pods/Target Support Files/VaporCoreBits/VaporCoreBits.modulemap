@@ -1,0 +1,6 @@
+framework module Bits {
+  umbrella header "VaporCoreBits-umbrella.h"
+
+  export *
+  module * { export * }
+}
